@@ -3,7 +3,7 @@ IT9 Repo
 <h1 align="center">Hi 👋, I'm Ashley May Alonzo</h1>
 <h3 align="center">Im Currently a Student at University Of Mindanao</h3>
 
-- 🔭 I’m currently working on [Cttmo Ticketing platform system](https://github.com/Ashuriyuri/Pwc-Attendance-tracking-system)
+- 🔭 I’m currently working on  [Cttmo Ticketing platform system](https://github.com/Ashuriyuri/Pwc-Attendance-tracking-system)
 
 - 🌱 I’m currently learning **HTML,Database,PHP**
 
